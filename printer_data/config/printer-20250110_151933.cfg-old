@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
-[include mmu/addons/dc_espooler.cfg]
 # STM32G0B1 with a "8KiB bootloader" and USB communication.
 
 #[include mainsail.cfg]
